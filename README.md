@@ -1,7 +1,7 @@
 # Daniyal-180
  
 <h1 align="center">Hi 👋, I'm Muhammad Daniyal</h1>
-<h3 align="center">ML enthusiast | Python | SK-Learn | TensorFlow | Keras</h3>
+<h3 align="center">Data Analyst enthusiast | Python | SQL | PowerBI | SK-Learn </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-180&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-180" /> </p>
 
