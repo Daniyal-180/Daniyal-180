@@ -109,14 +109,5 @@ Created a system that uses **Large Language Models (LLMs)** to generate optimize
 
 ---
 
-## 🎮 Fun Touch
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniyalabbasi/daniyalabbasi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniyalabbasi/daniyalabbasi/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/daniyalabbasi/daniyalabbasi/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 <h3 align="center">⭐ "Every great developer starts with curiosity — and I’m just getting started in the world of AI."</h3>
